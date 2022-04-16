@@ -154,6 +154,10 @@ const comboArray= (...arr) =>{
 }
 
 
-
-
-
+// Test Suites: 1 passed, 1 total
+// Tests:       3 passed, 3 total
+// Snapshots:   0 total
+// Time:        0.138 s, estimated 1 s
+// Ran all test suites.
+// ✨  Done in 0.57s.
+// learnacademy@LEARNs-Air week-4-assessment-joagui83 % testArray1

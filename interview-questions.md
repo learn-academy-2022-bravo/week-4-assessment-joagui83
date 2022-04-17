@@ -46,12 +46,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Instance Variable:
+1. Instance Variable: A variable that begins with @ which belongs to the instance of a class object. It lets objects store data on their own local scope. 
 
-2. PostgreSQL:
+2. PostgreSQL: One type of SQL (Structed Query Language) and it's an open source object relationable database system. It supports both SQL(relational) and JSON(non-raltional) quering.
 
-3. Ruby on Rails:
+3. Ruby on Rails: Web-application framework that creates database-backweb applications. It's opinionated software, it assumes that there is a best way to do things and designed to encourage coding to follow that way. It is based on two main concepts DRY( Don't Repeat Yoursel) and Convention Over Configuration which helps keep code cleaner, less prone to bugs and easier to troubleshoot if problems arise. 
 
-4. ORM:
+4. ORM: Object-relational mapper is a technique used for converting data between type systems using object-oriented programming languages which would normally be incompatible.
 
-5. Active Record:
+5. Active Record: The ORM used in Rails. Provides an interface and binding between the tables in relational database and the Ruby program code that manipulates database records.They include CRUD(Create, Read, Update, Delete) methods for database access.
